@@ -1,0 +1,7 @@
+{
+  "name": "flickr-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jesús Urrutia <jesus.urrutia@gmail.com> (https://jesusurrutia.com)",
+  "license": "MIT"
+}
